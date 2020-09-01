@@ -67,7 +67,7 @@ const NerdpackPage = ({ data }) => {
           <iframe
             width="578"
             height="328.125"
-            src="https://www.youtube.com/embed/ZagZfNQYJEU?controls=0"
+            src="https://www.youtube.com/watch?v=7omo0qHxku8&feature=youtu.be"
             frameBorder="0"
             allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
             allowFullScreen
